@@ -1,0 +1,1588 @@
+Transaction,Item,date_time,weekday_weekend
+1,Indo Goreng,1/7/2024,weekday
+1,Sedap Goreng,1/7/2024,weekday
+1,Indo AB,1/7/2024,weekday
+2,Amanah Galon,1/7/2024,weekday
+2,Sunco 2L,1/7/2024,weekday
+3,Minyak Kita 1L,1/7/2024,weekday
+3,Indo AB,1/7/2024,weekday
+3,Indo Goreng,1/7/2024,weekday
+3,Kara,1/7/2024,weekday
+3,Amanah Galon,1/7/2024,weekday
+4,Gula Pasir,1/7/2024,weekday
+4,Sunco 2L,1/7/2024,weekday
+4,Sunco 1L,1/7/2024,weekday
+4,Fortune 1L,1/7/2024,weekday
+5,Amanah 330ml,1/7/2024,weekday
+5,Amanah 500ml,1/7/2024,weekday
+6,Gula Pasir,2/7/2024,weekday
+6,Indo Goreng,2/7/2024,weekday
+6,Indo AB,2/7/2024,weekday
+7,Hemart 1L,2/7/2024,weekday
+7,Minyak Kita 1L,2/7/2024,weekday
+8,Sunco 2L,2/7/2024,weekday
+8,Indo Soto,2/7/2024,weekday
+8,Indo Goreng,2/7/2024,weekday
+8,Segitiga 1Kg,2/7/2024,weekday
+9,Amanah Galon,2/7/2024,weekday
+9,Amanah 330ml,2/7/2024,weekday
+9,Amanah 500ml,2/7/2024,weekday
+9,Gula Pasir,2/7/2024,weekday
+9,Hemart 1L,2/7/2024,weekday
+10,Minyak Kita 1L,2/7/2024,weekday
+10,Aqua Galon,2/7/2024,weekday
+10,Amanah Galon,2/7/2024,weekday
+10,Indo Goreng,2/7/2024,weekday
+10,Indo Rendang,2/7/2024,weekday
+10,Indo AB,2/7/2024,weekday
+11,Gula Pasir,2/7/2024,weekday
+12,Amanah Galon,2/7/2024,weekday
+13,Kara,2/7/2024,weekday
+13,Garam,2/7/2024,weekday
+14,Sunco 2L,3/7/2024,weekday
+14,Amanah Galon,3/7/2024,weekday
+15,Indo Soto,3/7/2024,weekday
+15,Indo Goreng,3/7/2024,weekday
+15,Bango,3/7/2024,weekday
+16,Amanah Galon,3/7/2024,weekday
+16,Aqua Galon,3/7/2024,weekday
+17,Segitiga 1Kg,3/7/2024,weekday
+17,Sunlight,3/7/2024,weekday
+17,Gula Pasir,3/7/2024,weekday
+18,Amanah Galon,4/7/2024,weekday
+19,Amanah 500ml,4/7/2024,weekday
+19,Amanah Galon,4/7/2024,weekday
+20,Gula Pasir,4/7/2024,weekday
+20,Hemart 1L,4/7/2024,weekday
+20,Segitiga 1Kg,4/7/2024,weekday
+21,Indo Goreng,4/7/2024,weekday
+21,Indo Aceh,4/7/2024,weekday
+21,Indo AB,4/7/2024,weekday
+22,Amanah Galon,4/7/2024,weekday
+22,Indo Goreng,4/7/2024,weekday
+22,Garam,4/7/2024,weekday
+22,Gula Pasir,4/7/2024,weekday
+23,Amanah Galon,4/7/2024,weekday
+24,Amanah Galon,4/7/2024,weekday
+25,Indo Goreng,4/7/2024,weekday
+25,Sedap Goreng,4/7/2024,weekday
+26,Sunco 2L,4/7/2024,weekday
+26,Minyak Kita 1L,4/7/2024,weekday
+26,Kara,4/7/2024,weekday
+27,Gas 3Kg,5/7/2024,weekday
+28,Bango,5/7/2024,weekday
+28,Aqua Galon,5/7/2024,weekday
+29,Aqua 600ml,5/7/2024,weekday
+29,Indo Soto,5/7/2024,weekday
+29,Indo Goreng,5/7/2024,weekday
+30,Amanah 500ml,5/7/2024,weekday
+30,Indo Goreng,5/7/2024,weekday
+30,Indo AB,5/7/2024,weekday
+30,Indo Soto,5/7/2024,weekday
+31,Sunco 2L,7/7/2024,weekend
+31,Segitiga 1Kg,7/7/2024,weekend
+32,Amanah Galon,7/7/2024,weekend
+32,Gula Pasir,7/7/2024,weekend
+32,Kara,7/7/2024,weekend
+32,Sawit,7/7/2024,weekend
+33,Amanah Galon,7/7/2024,weekend
+33,Aqua Galon,7/7/2024,weekend
+33,Aqua 600ml,7/7/2024,weekend
+34,Indo Goreng,7/7/2024,weekend
+34,Minyak Kita 1L,7/7/2024,weekend
+34,Gula Pasir,7/7/2024,weekend
+35,Sunco 2L,7/7/2024,weekend
+36,Amanah Galon,7/7/2024,weekend
+37,Amanah Galon,7/7/2024,weekend
+38,Amanah Galon,7/7/2024,weekend
+39,Amanah Galon,7/7/2024,weekend
+40,Aqua Galon,7/7/2024,weekend
+41,Indo Goreng,7/7/2024,weekend
+41,Sedap Goreng,7/7/2024,weekend
+42,Gas 3Kg,7/7/2024,weekend
+42,Amanah Galon,7/7/2024,weekend
+43,Aqua Galon,8/7/2024,weekday
+43,Aqua 600ml,8/7/2024,weekday
+43,Le Mineral 600ml,8/7/2024,weekday
+43,Gula Pasir,8/7/2024,weekday
+43,Hemart 1L,8/7/2024,weekday
+43,Hemart 1/2 L Refill,8/7/2024,weekday
+43,Sunco 2L,8/7/2024,weekday
+43,Bango,8/7/2024,weekday
+44,Amanah Galon,8/7/2024,weekday
+44,Amanah 500ml,8/7/2024,weekday
+45,Hemart 1L,8/7/2024,weekday
+45,Minyak Kita 1L,8/7/2024,weekday
+46,Gula Pasir,8/7/2024,weekday
+46,Garam,8/7/2024,weekday
+47,Amanah 500ml,8/7/2024,weekday
+47,Le Mineral 600ml,8/7/2024,weekday
+47,Minyak Kita 1L,8/7/2024,weekday
+48,Amanah Galon,8/7/2024,weekday
+49,Amanah Galon,8/7/2024,weekday
+50,Aqua Galon,8/7/2024,weekday
+50,Gas 3Kg,8/7/2024,weekday
+51,Aqua Galon,9/7/2024,weekday
+51,Aqua 600ml,9/7/2024,weekday
+51,Le Mineral 600ml,9/7/2024,weekday
+52,Amanah Galon,9/7/2024,weekday
+53,Amanah 330ml,9/7/2024,weekday
+54,Minyak Kita 1L,9/7/2024,weekday
+55,Le Mineral 600ml,9/7/2024,weekday
+55,Indo AB,9/7/2024,weekday
+55,Sedap AB,9/7/2024,weekday
+56,Amanah Galon,9/7/2024,weekday
+56,Amanah 500ml,9/7/2024,weekday
+56,Amanah 330ml,9/7/2024,weekday
+57,Amanah Galon,9/7/2024,weekday
+58,Segitiga 1Kg,10/7/2024,weekday
+58,Sawit,10/7/2024,weekday
+59,Gula Pasir,10/7/2024,weekday
+60,Sunlight,10/7/2024,weekday
+60,Indo AB,10/7/2024,weekday
+60,Indo Goreng,10/7/2024,weekday
+61,Aqua Galon,10/7/2024,weekday
+61,Aqua 600ml,10/7/2024,weekday
+61,Le Mineral Galon,10/7/2024,weekday
+61,Le Mineral 600ml,10/7/2024,weekday
+62,Amanah Galon,10/7/2024,weekday
+63,Amanah Galon,10/7/2024,weekday
+64,Amanah Galon,10/7/2024,weekday
+65,Sunco 2L,11/7/2024,weekday
+65,Hemart 1L,11/7/2024,weekday
+66,Hemart 1/2 L Refill,11/7/2024,weekday
+67,Gula Pasir,11/7/2024,weekday
+67,Garam,11/7/2024,weekday
+67,Segitiga 1Kg,11/7/2024,weekday
+67,Bango,11/7/2024,weekday
+68,Amanah Galon,11/7/2024,weekday
+68,Gas 3Kg,11/7/2024,weekday
+68,Aqua Galon,11/7/2024,weekday
+69,Hemart 1L,12/7/2024,weekday
+69,Le Mineral 600ml,12/7/2024,weekday
+70,Wall Stapler,12/7/2024,weekday
+70,Minyak Kita 1L,12/7/2024,weekday
+70,Bango,12/7/2024,weekday
+70,Segitiga 1Kg,12/7/2024,weekday
+70,Indo Goreng,12/7/2024,weekday
+70,Sedap Goreng,12/7/2024,weekday
+71,Gula Pasir,12/7/2024,weekday
+71,Minyak Kita 1L,12/7/2024,weekday
+72,Amanah Galon,12/7/2024,weekday
+73,Gula Pasir,12/7/2024,weekday
+73,Indo Goreng,12/7/2024,weekday
+73,Sedap Goreng,12/7/2024,weekday
+73,Segitiga 1Kg,12/7/2024,weekday
+75,Amanah Galon,12/7/2024,weekday
+76,Amanah Galon,12/7/2024,weekday
+77,Amanah 500ml,12/7/2024,weekday
+77,Aqua 600ml,12/7/2024,weekday
+77,Le Mineral 600ml,12/7/2024,weekday
+77,Minyak Kita 1L,12/7/2024,weekday
+78,Gula Pasir,12/7/2024,weekday
+78,Garam,12/7/2024,weekday
+78,Sawit,12/7/2024,weekday
+79,Sawit,13/7/2024,weekend
+79,Gula Pasir,13/7/2024,weekend
+79,Segitiga 1Kg,13/7/2024,weekend
+80,Minyak Kita 1L,13/7/2024,weekend
+81,Aqua Galon,13/7/2024,weekend
+81,Aqua 600ml,13/7/2024,weekend
+81,Le Mineral 600ml,13/7/2024,weekend
+82,Minyak Kita 1L,13/7/2024,weekend
+82,Sunco 2L,13/7/2024,weekend
+83,Amanah Galon,13/7/2024,weekend
+84,Sunco 2L,13/7/2024,weekend
+84,Sunco 1L,13/7/2024,weekend
+85,Sawit,13/7/2024,weekend
+86,Gas 3Kg,15/7/2024,weekday
+86,Segitiga 1Kg,15/7/2024,weekday
+86,Bango,15/7/2024,weekday
+86,Lencana Merah,15/7/2024,weekday
+87,Amanah Galon,15/7/2024,weekday
+88,Amanah Galon,15/7/2024,weekday
+89,Minyak Kita 1L,15/7/2024,weekday
+89,Gula Pasir,15/7/2024,weekday
+89,Aqua Galon,15/7/2024,weekday
+89,Le Mineral Galon,15/7/2024,weekday
+90,Le Mineral Galon,15/7/2024,weekday
+90,Aqua Galon,15/7/2024,weekday
+90,Le Mineral 600ml,15/7/2024,weekday
+90,Gula Pasir,15/7/2024,weekday
+91,Amanah 500ml,15/7/2024,weekday
+91,Amanah 330ml,15/7/2024,weekday
+92,Amanah Galon,15/7/2024,weekday
+93,Amanah Galon,15/7/2024,weekday
+94,Amanah Galon,15/7/2024,weekday
+95,Sunco 2L,15/7/2024,weekday
+95,Minyak Kita 1L,15/7/2024,weekday
+95,Bango,15/7/2024,weekday
+96,Sawit,15/7/2024,weekday
+97,Teh Pucuk,15/7/2024,weekday
+97,Segitiga 1Kg,15/7/2024,weekday
+98,Gula Pasir,15/7/2024,weekday
+98,Sunco 2L,15/7/2024,weekday
+98,Gas 3Kg,15/7/2024,weekday
+98,Sawit,15/7/2024,weekday
+99,Indo Goreng,16/7/2024,weekday
+100,Indo AB,16/7/2024,weekday
+100,Indo Soto,16/7/2024,weekday
+100,Sedap Goreng,16/7/2024,weekday
+100,Sedap AB,16/7/2024,weekday
+101,Amanah Galon,16/7/2024,weekday
+101,Aqua Galon,16/7/2024,weekday
+102,Amanah Galon,16/7/2024,weekday
+102,Aqua Galon,16/7/2024,weekday
+103,Minyak Kita 1L,16/7/2024,weekday
+104,Le Mineral 600ml,16/7/2024,weekday
+105,Sawit,16/7/2024,weekday
+105,Segitiga 1Kg,16/7/2024,weekday
+106,Sunco 1L,16/7/2024,weekday
+107,Amanah Galon,16/7/2024,weekday
+108,Minyak Kita 1L,16/7/2024,weekday
+108,Gula Pasir,16/7/2024,weekday
+109,Aqua Galon,16/7/2024,weekday
+109,Gula Pasir,16/7/2024,weekday
+109,Le Mineral Galon,16/7/2024,weekday
+109,Teh Pucuk,16/7/2024,weekday
+109,Aqua 600ml,16/7/2024,weekday
+109,Le Mineral 600ml,16/7/2024,weekday
+110,Amanah Galon,16/7/2024,weekday
+111,Gula Pasir,17/7/2024,weekday
+111,Kara,17/7/2024,weekday
+111,Garam,17/7/2024,weekday
+111,Indo Goreng,17/7/2024,weekday
+112,Sunco 2L,17/7/2024,weekday
+112,Indo AB,17/7/2024,weekday
+112,Indo AB,17/7/2024,weekday
+112,Sedap Soto,17/7/2024,weekday
+112,Sedap AB,17/7/2024,weekday
+112,Bango,17/7/2024,weekday
+112,Lencana Merah,17/7/2024,weekday
+112,Teh Pucuk,17/7/2024,weekday
+112,Sawit,17/7/2024,weekday
+113,Minyak Kita 1L,17/7/2024,weekday
+114,Gula Pasir,17/7/2024,weekday
+115,Amanah Galon,17/7/2024,weekday
+116,Amanah Galon,17/7/2024,weekday
+117,Teh Pucuk,17/7/2024,weekday
+118,Le Mineral Galon,17/7/2024,weekday
+119,Minyak Kita 1L,17/7/2024,weekday
+119,Bango,17/7/2024,weekday
+119,Kara,17/7/2024,weekday
+119,Indo Goreng,17/7/2024,weekday
+119,Sedap Goreng,17/7/2024,weekday
+120,Sawit,17/7/2024,weekday
+121,Gula Pasir,18/7/2024,weekday
+121,Garam,18/7/2024,weekday
+122,Segitiga 1Kg,18/7/2024,weekday
+123,Minyak Kita 1L,18/7/2024,weekday
+124,Amanah Galon,18/7/2024,weekday
+125,Aqua Galon,18/7/2024,weekday
+125,Amanah Galon,18/7/2024,weekday
+125,Aqua 600ml,18/7/2024,weekday
+125,Le Mineral 600ml,18/7/2024,weekday
+126,Gula Pasir,18/7/2024,weekday
+127,Minyak Kita 1L,18/7/2024,weekday
+127,Sunco 2L,18/7/2024,weekday
+128,Sunco 2L,18/7/2024,weekday
+129,Gula Pasir,18/7/2024,weekday
+130,Segitiga 1Kg,18/7/2024,weekday
+131,Amanah Galon,18/7/2024,weekday
+132,Amanah Galon,19/7/2024,weekday
+133,Segitiga 1Kg,19/7/2024,weekday
+133,Gula Pasir,19/7/2024,weekday
+134,Aqua Galon,19/7/2024,weekday
+135,Sawit,19/7/2024,weekday
+136,Amanah Galon,19/7/2024,weekday
+136,Amanah 330ml,19/7/2024,weekday
+136,Hemart 1L,19/7/2024,weekday
+137,Amanah Galon,19/7/2024,weekday
+138,Sawit,19/7/2024,weekday
+139,Minyak Kita 1L,19/7/2024,weekday
+140,Amanah Galon,19/7/2024,weekday
+140,Aqua Galon,19/7/2024,weekday
+141,Amanah Galon,20/7/2024,weekend
+142,Aqua Galon,20/7/2024,weekend
+143,Amanah 330ml,20/7/2024,weekend
+143,Aqua Galon,20/7/2024,weekend
+144,Sawit,20/7/2024,weekend
+144,Segitiga 1Kg,20/7/2024,weekend
+145,Amanah Galon,20/7/2024,weekend
+145,Le Mineral Galon,20/7/2024,weekend
+146,Sunco 2L,20/7/2024,weekend
+146,Hemart 1L,20/7/2024,weekend
+147,Sunco 2L,20/7/2024,weekend
+147,Sunco 1L,20/7/2024,weekend
+148,Le Mineral 600ml,21/7/2024,weekend
+148,Gas 3Kg,21/7/2024,weekend
+149,Aqua Galon,21/7/2024,weekend
+150,Amanah Galon,21/7/2024,weekend
+151,Sedap AB,21/7/2024,weekend
+152,Indo Goreng,22/7/2024,weekday
+152,Indo AB,22/7/2024,weekday
+152,Indo Soto,22/7/2024,weekday
+153,Aqua Galon,22/7/2024,weekday
+154,Segitiga 1Kg,22/7/2024,weekday
+155,Sawit,22/7/2024,weekday
+156,Gula Pasir,22/7/2024,weekday
+156,Garam,22/7/2024,weekday
+157,Segitiga 1Kg,22/7/2024,weekday
+157,Bango,22/7/2024,weekday
+158,Sunco 2L,22/7/2024,weekday
+159,Segitiga 1Kg,22/7/2024,weekday
+159,Hemart 1L,22/7/2024,weekday
+159,Le Mineral Galon,22/7/2024,weekday
+160,Sawit,22/7/2024,weekday
+160,Sunlight,22/7/2024,weekday
+161,Sawit,23/7/2024,weekday
+161,Bango,23/7/2024,weekday
+161,Gula Pasir,23/7/2024,weekday
+162,Gula Pasir,23/7/2024,weekday
+162,Le Mineral 600ml,23/7/2024,weekday
+162,Sedap Goreng,23/7/2024,weekday
+162,Sedap Soto,23/7/2024,weekday
+162,Minyak Kita 1L,23/7/2024,weekday
+162,Bango,23/7/2024,weekday
+163,Sawit,23/7/2024,weekday
+164,Amanah Galon,23/7/2024,weekday
+165,Amanah Galon,23/7/2024,weekday
+166,Amanah Galon,23/7/2024,weekday
+167,Bango,24/7/2024,weekday
+167,Sunlight,24/7/2024,weekday
+167,Minyak Kita 1L,24/7/2024,weekday
+168,Sawit,24/7/2024,weekday
+169,Amanah Galon,24/7/2024,weekday
+170,Amanah Galon,24/7/2024,weekday
+170,Amanah Galon,24/7/2024,weekday
+170,Kara,24/7/2024,weekday
+171,Le Mineral 600ml,24/7/2024,weekday
+171,Aqua 600ml,24/7/2024,weekday
+171,Gula Pasir,24/7/2024,weekday
+171,Teh Pucuk,24/7/2024,weekday
+172,Aqua Galon,24/7/2024,weekday
+172,Le Mineral 600ml,24/7/2024,weekday
+173,Wall Stapler,24/7/2024,weekday
+174,Le Mineral Galon,24/7/2024,weekday
+175,Gula Pasir,24/7/2024,weekday
+176,Amanah Galon,25/7/2024,weekday
+176,Le Mineral Galon,25/7/2024,weekday
+177,Aqua Galon,25/7/2024,weekday
+177,Le Mineral Galon,25/7/2024,weekday
+177,Gas 3Kg,25/7/2024,weekday
+178,Le Mineral Galon,25/7/2024,weekday
+178,Sedap AB,25/7/2024,weekday
+179,Sunco 2L,25/7/2024,weekday
+179,Segitiga 1Kg,25/7/2024,weekday
+180,Gas 3Kg,25/7/2024,weekday
+180,Aqua Galon,25/7/2024,weekday
+181,Minyak Kita 1L,25/7/2024,weekday
+182,Amanah Galon,25/7/2024,weekday
+183,Aqua Galon,25/7/2024,weekday
+183,Sunco 2L,25/7/2024,weekday
+183,Bango,25/7/2024,weekday
+184,Amanah Galon,25/7/2024,weekday
+184,Amanah 500ml,25/7/2024,weekday
+184,Amanah 330ml,25/7/2024,weekday
+185,Gula Pasir,26/7/2024,weekday
+185,Indo Goreng,26/7/2024,weekday
+185,Indo AB,26/7/2024,weekday
+185,Sunlight,26/7/2024,weekday
+186,Amanah Galon,26/7/2024,weekday
+187,Aqua Galon,26/7/2024,weekday
+188,Amanah Galon,26/7/2024,weekday
+189,Amanah 500ml,26/7/2024,weekday
+190,Amanah 330ml,27/7/2024,weekend
+190,Amanah Galon,27/7/2024,weekend
+191,Amanah Galon,27/7/2024,weekend
+192,Sunco 1L,27/7/2024,weekend
+192,Kara,27/7/2024,weekend
+193,Amanah Galon,27/7/2024,weekend
+194,Sawit,27/7/2024,weekend
+194,Garam,27/7/2024,weekend
+194,Gula Pasir,27/7/2024,weekend
+195,Amanah Galon,27/7/2024,weekend
+196,Lencana Merah,27/7/2024,weekend
+196,Fortune 1L,27/7/2024,weekend
+197,Indo G Geprek,27/7/2024,weekend
+197,Indo Rendang,27/7/2024,weekend
+197,Indo Aceh,27/7/2024,weekend
+198,Amanah Galon,29/7/2024,weekday
+199,Amanah Galon,29/7/2024,weekday
+200,Amanah Galon,29/7/2024,weekday
+200,Aqua Galon,29/7/2024,weekday
+201,Sunco 2L,29/7/2024,weekday
+201,Segitiga 1Kg,29/7/2024,weekday
+201,Indo AB,29/7/2024,weekday
+201,Indo Goreng,29/7/2024,weekday
+202,Teh Pucuk,29/7/2024,weekday
+203,Sawit,29/7/2024,weekday
+204,Amanah Galon,29/7/2024,weekday
+205,Amanah Galon,29/7/2024,weekday
+206,Gula Pasir,29/7/2024,weekday
+207,Minyak Kita 1L,29/7/2024,weekday
+207,Indo Goreng,29/7/2024,weekday
+207,Indo AB,29/7/2024,weekday
+207,Gula Pasir,29/7/2024,weekday
+208,Sunco 2L,29/7/2024,weekday
+208,Sunco 1L,29/7/2024,weekday
+208,Sedap Goreng,29/7/2024,weekday
+208,Sedap Soto,29/7/2024,weekday
+208,Sedap AB,29/7/2024,weekday
+209,Amanah Galon,29/7/2024,weekday
+209,Gas 3Kg,29/7/2024,weekday
+210,Gula Pasir,29/7/2024,weekday
+210,Garam,29/7/2024,weekday
+210,Segitiga 1Kg,29/7/2024,weekday
+210,Sawit,29/7/2024,weekday
+211,Teh Pucuk,30/7/2024,weekday
+211,Le Mineral 600ml,30/7/2024,weekday
+211,Aqua 600ml,30/7/2024,weekday
+211,Amanah 500ml,30/7/2024,weekday
+212,Aqua Galon,30/7/2024,weekday
+212,Amanah Galon,30/7/2024,weekday
+212,Le Mineral 600ml,30/7/2024,weekday
+212,Garam,30/7/2024,weekday
+212,Hemart 1L,30/7/2024,weekday
+213,Amanah Galon,30/7/2024,weekday
+214,Amanah Galon,30/7/2024,weekday
+215,Amanah 500ml,30/7/2024,weekday
+215,Aqua 600ml,30/7/2024,weekday
+216,Wall Stapler,30/7/2024,weekday
+217,Sawit,30/7/2024,weekday
+217,Gula Pasir,30/7/2024,weekday
+217,Garam,30/7/2024,weekday
+218,Minyak Kita 1L,30/7/2024,weekday
+218,Hemart 1L,30/7/2024,weekday
+218,Lencana Merah,30/7/2024,weekday
+218,Le Mineral 600ml,30/7/2024,weekday
+218,Aqua 600ml,30/7/2024,weekday
+218,Gas 3Kg,30/7/2024,weekday
+218,Teh Pucuk,30/7/2024,weekday
+219,Amanah Galon,30/7/2024,weekday
+219,Minyak Kita 1L,30/7/2024,weekday
+220,Gula Pasir,31/7/2024,weekday
+221,Hemart 1L,31/7/2024,weekday
+221,Hemart 1/2 L Refill,31/7/2024,weekday
+221,Indo G Geprek,31/7/2024,weekday
+221,Indo Rendang,31/7/2024,weekday
+221,Indo Aceh,31/7/2024,weekday
+222,Amanah Galon,31/7/2024,weekday
+223,Amanah Galon,31/7/2024,weekday
+224,Sawit,31/7/2024,weekday
+225,Segitiga 1Kg,31/7/2024,weekday
+226,Indo AB,31/7/2024,weekday
+226,Indo Soto,31/7/2024,weekday
+227,Garam,31/7/2024,weekday
+228,Sunco 2L,31/7/2024,weekday
+229,Sawit,31/7/2024,weekday
+230,Amanah Galon,31/7/2024,weekday
+230,Aqua Galon,31/7/2024,weekday
+231,Hemart 1L,31/7/2024,weekday
+231,Sunco 1L,31/7/2024,weekday
+231,Fortune 1L,31/7/2024,weekday
+231,Hemart 1/2 L Refill,31/7/2024,weekday
+231,Fortune 2 L,31/7/2024,weekday
+231,Hemart 2 L Refill,31/7/2024,weekday
+232,Le Mineral 600ml,1/8/2024,weekday
+232,Amanah Galon,1/8/2024,weekday
+232,Amanah 500ml,1/8/2024,weekday
+232,Minyak Kita 1L,1/8/2024,weekday
+232,Indo Goreng,1/8/2024,weekday
+233,Hemart 1L,1/8/2024,weekday
+233,Hemart 1/2 L Refill,1/8/2024,weekday
+233,Hemart 2 L Refill,1/8/2024,weekday
+234,Amanah Galon,1/8/2024,weekday
+234,Kara,1/8/2024,weekday
+235,Amanah Galon,1/8/2024,weekday
+236,Amanah Galon,1/8/2024,weekday
+237,Sawit,1/8/2024,weekday
+237,Gula Pasir,1/8/2024,weekday
+238,Amanah Galon,1/8/2024,weekday
+238,Amanah 500ml,1/8/2024,weekday
+238,Amanah 330ml,1/8/2024,weekday
+239,Aqua Galon,1/8/2024,weekday
+239,Amanah Galon,1/8/2024,weekday
+240,Sedap Goreng,1/8/2024,weekday
+240,Sedap AB,1/8/2024,weekday
+240,Sedap Soto,1/8/2024,weekday
+241,Hemart 1L,1/8/2024,weekday
+241,Sunco 1L,1/8/2024,weekday
+241,Fortune 1L,1/8/2024,weekday
+241,Segitiga 1Kg,1/8/2024,weekday
+241,Lencana Merah,1/8/2024,weekday
+241,Bango,1/8/2024,weekday
+241,Aqua 600ml,1/8/2024,weekday
+241,Le Mineral 600ml,1/8/2024,weekday
+241,Minyak Kita 1L,1/8/2024,weekday
+242,Gula Pasir,1/8/2024,weekday
+242,Garam,1/8/2024,weekday
+242,Sawit,1/8/2024,weekday
+243,Segitiga 1Kg,2/8/2024,weekday
+244,Amanah Galon,2/8/2024,weekday
+245,Amanah Galon,2/8/2024,weekday
+245,Le Mineral Galon,2/8/2024,weekday
+246,Gula Pasir,2/8/2024,weekday
+246,Wall Stapler,2/8/2024,weekday
+247,Gula Pasir,2/8/2024,weekday
+247,Sunco 2L,2/8/2024,weekday
+248,Le Mineral Galon,2/8/2024,weekday
+249,Amanah Galon,2/8/2024,weekday
+250,Kara,3/8/2028,weekend
+250,Garam,3/8/2028,weekend
+251,Amanah Galon,3/8/2028,weekend
+252,Amanah Galon,3/8/2028,weekend
+253,Gula Pasir,3/8/2028,weekend
+253,Le Mineral 600ml,3/8/2028,weekend
+253,Sedap Goreng,3/8/2028,weekend
+253,Sedap Soto,3/8/2028,weekend
+253,Minyak Kita 1L,3/8/2028,weekend
+253,Bango,3/8/2028,weekend
+253,Sunlight,3/8/2028,weekend
+254,Segitiga 1Kg,4/8/2024,weekend
+255,Le Mineral Galon,4/8/2024,weekend
+256,Amanah 330ml,4/8/2024,weekend
+256,Amanah 500ml,4/8/2024,weekend
+257,Amanah Galon,4/8/2024,weekend
+258,Amanah Galon,4/8/2024,weekend
+258,Le Mineral Galon,4/8/2024,weekend
+259,Sunco 2L,4/8/2024,weekend
+260,Minyak Kita 1L,4/8/2024,weekend
+260,Garam,4/8/2024,weekend
+261,Fortune 2 L,4/8/2024,weekend
+261,Indo G Geprek,4/8/2024,weekend
+261,Indo Aceh,4/8/2024,weekend
+261,Indo Rendang,4/8/2024,weekend
+262,Aqua Galon,5/8/2024,weekday
+262,Aqua 600ml,5/8/2024,weekday
+262,Le Mineral Galon,5/8/2024,weekday
+262,Segitiga 1Kg,5/8/2024,weekday
+262,Gula Pasir,5/8/2024,weekday
+262,Minyak Kita 1L,5/8/2024,weekday
+263,Sunco 2L,5/8/2024,weekday
+263,Bango,5/8/2024,weekday
+264,Amanah Galon,5/8/2024,weekday
+265,Sawit,5/8/2024,weekday
+266,Sedap AB,5/8/2024,weekday
+266,Sedap Goreng,5/8/2024,weekday
+267,Amanah Galon,5/8/2024,weekday
+268,Sawit,5/8/2024,weekday
+268,Lencana Merah,5/8/2024,weekday
+269,Indo AB,5/8/2024,weekday
+270,Sedap AB,5/8/2024,weekday
+270,Sedap Soto,5/8/2024,weekday
+271,Amanah Galon,5/8/2024,weekday
+272,Amanah Galon,6/8/2024,weekday
+272,Wall Stapler,6/8/2024,weekday
+273,Amanah Galon,6/8/2024,weekday
+273,Amanah 500ml,6/8/2024,weekday
+273,Amanah 330ml,6/8/2024,weekday
+274,Sawit,6/8/2024,weekday
+275,Segitiga 1Kg,6/8/2024,weekday
+275,Gula Pasir,6/8/2024,weekday
+275,Garam,6/8/2024,weekday
+276,Le Mineral Galon,6/8/2024,weekday
+276,Aqua Galon,6/8/2024,weekday
+277,Sunco 2L,6/8/2024,weekday
+277,Minyak Kita 1L,6/8/2024,weekday
+278,Aqua Galon,6/8/2024,weekday
+278,Amanah 330ml,6/8/2024,weekday
+278,Le Mineral 600ml,6/8/2024,weekday
+278,Le Mineral Galon,6/8/2024,weekday
+279,Indo Goreng,6/8/2024,weekday
+279,Sedap Goreng,6/8/2024,weekday
+279,Indo Rendang,6/8/2024,weekday
+280,Gula Pasir,6/8/2024,weekday
+280,Garam,6/8/2024,weekday
+280,Sawit,6/8/2024,weekday
+280,Segitiga 1Kg,6/8/2024,weekday
+281,Aqua Galon,7/8/2024,weekday
+281,Amanah 330ml,7/8/2024,weekday
+281,Le Mineral 600ml,7/8/2024,weekday
+281,Le Mineral Galon,7/8/2024,weekday
+282,Sunco 1L,8/8/2024,weekday
+282,Aqua Galon,8/8/2024,weekday
+282,Gula Pasir,8/8/2024,weekday
+283,Kara,8/8/2024,weekday
+283,Garam,8/8/2024,weekday
+283,Indo Goreng,8/8/2024,weekday
+283,Segitiga 1Kg,8/8/2024,weekday
+284,Sunco 2L,8/8/2024,weekday
+284,Segitiga 1Kg,8/8/2024,weekday
+284,Hemart 1L,8/8/2024,weekday
+284,Le Mineral Galon,8/8/2024,weekday
+285,Gula Pasir,8/8/2024,weekday
+285,Lencana Merah,8/8/2024,weekday
+286,Amanah Galon,8/8/2024,weekday
+287,Amanah Galon,8/8/2024,weekday
+288,Amanah 500ml,8/8/2024,weekday
+288,Amanah 330ml,8/8/2024,weekday
+289,Sawit,8/8/2024,weekday
+290,Bango,8/8/2024,weekday
+290,Le Mineral 600ml,8/8/2024,weekday
+291,Amanah Galon,8/8/2024,weekday
+292,Indo Goreng,9/8/2024,weekday
+292,Indo Soto,9/8/2024,weekday
+292,Indo AB,9/8/2024,weekday
+292,Indo G Geprek,9/8/2024,weekday
+292,Indo Rendang,9/8/2024,weekday
+292,Indo Aceh,9/8/2024,weekday
+293,Amanah Galon,9/8/2024,weekday
+294,Sunco 1L,9/8/2024,weekday
+294,Fortune 1L,9/8/2024,weekday
+294,Teh Pucuk,9/8/2024,weekday
+295,Gas 3Kg,9/8/2024,weekday
+296,Fortune 2 L,9/8/2024,weekday
+296,Hemart 2 L Refill,9/8/2024,weekday
+297,Sunlight,9/8/2024,weekday
+297,Bango,9/8/2024,weekday
+298,Amanah Galon,9/8/2024,weekday
+299,Amanah Galon,9/8/2024,weekday
+299,Amanah 500ml,9/8/2024,weekday
+299,Amanah 330ml,9/8/2024,weekday
+300,Gula Pasir,9/8/2024,weekday
+301,Minyak Kita 1L,9/8/2024,weekday
+301,Gula Pasir,9/8/2024,weekday
+301,Garam,9/8/2024,weekday
+302,Aqua Galon,9/8/2024,weekday
+302,Aqua 600ml,9/8/2024,weekday
+303,Sawit,9/8/2024,weekday
+304,Fortune 2 L,10/8/2024,weekend
+304,Hemart 2 L Refill,10/8/2024,weekend
+304,Hemart 1/2 L Refill,10/8/2024,weekend
+305,Sedap Goreng,10/8/2024,weekend
+305,Sedap AB,10/8/2024,weekend
+305,Sedap Soto,10/8/2024,weekend
+305,Teh Pucuk,10/8/2024,weekend
+306,Amanah Galon,10/8/2024,weekend
+307,Gas 3Kg,10/8/2024,weekend
+308,Amanah Galon,10/8/2024,weekend
+309,Le Mineral Galon,10/8/2024,weekend
+309,Le Mineral 600ml,10/8/2024,weekend
+310,Gula Pasir,10/8/2024,weekend
+310,Garam,10/8/2024,weekend
+310,Bango,10/8/2024,weekend
+310,Segitiga 1Kg,10/8/2024,weekend
+310,Lencana Merah,10/8/2024,weekend
+311,Amanah Galon,11/8/2024,weekend
+312,Gula Pasir,11/8/2024,weekend
+312,Garam,11/8/2024,weekend
+312,Lencana Merah,11/8/2024,weekend
+312,Segitiga 1Kg,11/8/2024,weekend
+313,Amanah Galon,12/8/2024,weekday
+314,Sunco 2L,12/8/2024,weekday
+314,Sunco 1L,12/8/2024,weekday
+315,Indo Goreng,12/8/2024,weekday
+315,Indo AB,12/8/2024,weekday
+316,Amanah Galon,12/8/2024,weekday
+316,Aqua Galon,12/8/2024,weekday
+316,Le Mineral Galon,12/8/2024,weekday
+317,Amanah Galon,12/8/2024,weekday
+318,Sawit,12/8/2024,weekday
+319,Minyak Kita 1L,12/8/2024,weekday
+320,Wall Stapler,12/8/2024,weekday
+321,Sedap Goreng,12/8/2024,weekday
+321,Sedap AB,12/8/2024,weekday
+321,Sedap Soto,12/8/2024,weekday
+321,Sunlight,12/8/2024,weekday
+321,Bango,12/8/2024,weekday
+322,Gula Pasir,12/8/2024,weekday
+323,Amanah 330ml,12/8/2024,weekday
+323,Amanah 500ml,12/8/2024,weekday
+323,Aqua 600ml,12/8/2024,weekday
+323,Le Mineral 600ml,12/8/2024,weekday
+324,Indo G Geprek,13/8/2024,weekday
+325,Indo Aceh,13/8/2024,weekday
+325,Indo Rendang,13/8/2024,weekday
+325,Sedap AB,13/8/2024,weekday
+325,Sedap Soto,13/8/2024,weekday
+326,Amanah Galon,13/8/2024,weekday
+327,Le Mineral Galon,13/8/2024,weekday
+327,Aqua Galon,13/8/2024,weekday
+328,Le Mineral Galon,13/8/2024,weekday
+328,Le Mineral 600ml,13/8/2024,weekday
+329,Amanah Galon,13/8/2024,weekday
+330,Amanah Galon,13/8/2024,weekday
+331,Amanah Galon,13/8/2024,weekday
+332,Fortune 2 L,13/8/2024,weekday
+332,Sunco 2L,13/8/2024,weekday
+333,Gas 3Kg,13/8/2024,weekday
+334,Hemart 1L,13/8/2024,weekday
+334,Hemart 1/2 L Refill,13/8/2024,weekday
+334,Fortune 1L,13/8/2024,weekday
+335,Bango,13/8/2024,weekday
+335,Garam,13/8/2024,weekday
+335,Sunlight,13/8/2024,weekday
+336,Amanah Galon,13/8/2024,weekday
+337,Teh Pucuk,13/8/2024,weekday
+338,Amanah Galon,14/8/2024,weekday
+339,Aqua Galon,14/8/2024,weekday
+340,Hemart 1L,14/8/2024,weekday
+340,Hemart 1/2 L Refill,14/8/2024,weekday
+341,Segitiga 1Kg,14/8/2024,weekday
+341,Sawit,14/8/2024,weekday
+342,Amanah Galon,14/8/2024,weekday
+343,Sedap Goreng,14/8/2024,weekday
+343,Indo Goreng,14/8/2024,weekday
+344,Amanah Galon,14/8/2024,weekday
+344,Amanah 500ml,14/8/2024,weekday
+344,Amanah 330ml,14/8/2024,weekday
+345,Amanah Galon,14/8/2024,weekday
+346,Sawit,14/8/2024,weekday
+346,Bango,14/8/2024,weekday
+347,Hemart 1L,14/8/2024,weekday
+347,Lencana Merah,14/8/2024,weekday
+348,Amanah Galon,14/8/2024,weekday
+349,Aqua Galon,14/8/2024,weekday
+349,Le Mineral Galon,14/8/2024,weekday
+350,Minyak Kita 1L,15/8/2024,weekday
+351,Sunco 2L,15/8/2024,weekday
+351,Sunco 1L,15/8/2024,weekday
+352,Gas 3Kg,15/8/2024,weekday
+352,Aqua Galon,15/8/2024,weekday
+353,Kara,15/8/2024,weekday
+353,Bango,15/8/2024,weekday
+353,Sawit,15/8/2024,weekday
+354,Sunco 2L,15/8/2024,weekday
+354,Segitiga 1Kg,15/8/2024,weekday
+354,Indo AB,15/8/2024,weekday
+354,Indo Goreng,15/8/2024,weekday
+355,Teh Pucuk,15/8/2024,weekday
+356,Amanah Galon,15/8/2024,weekday
+356,Gula Pasir,15/8/2024,weekday
+357,Amanah Galon,15/8/2024,weekday
+358,Sunco 1L,15/8/2024,weekday
+358,Segitiga 1Kg,15/8/2024,weekday
+358,Indo AB,15/8/2024,weekday
+359,Amanah Galon,15/8/2024,weekday
+360,Le Mineral 600ml,15/8/2024,weekday
+360,Gas 3Kg,15/8/2024,weekday
+360,Aqua Galon,15/8/2024,weekday
+360,Indo Goreng,15/8/2024,weekday
+361,Amanah Galon,16/8/2024,weekday
+362,Sawit,16/8/2024,weekday
+362,Lencana Merah,16/8/2024,weekday
+363,Gula Pasir,16/8/2024,weekday
+363,Hemart 1L,16/8/2024,weekday
+364,Gula Pasir,16/8/2024,weekday
+364,Kara,16/8/2024,weekday
+364,Segitiga 1Kg,16/8/2024,weekday
+364,Bango,16/8/2024,weekday
+365,Amanah Galon,16/8/2024,weekday
+366,Le Mineral 600ml,16/8/2024,weekday
+367,Sawit,16/8/2024,weekday
+368,Wall Stapler,16/8/2024,weekday
+369,Fortune 2 L,16/8/2024,weekday
+369,Hemart 1/2 L Refill,16/8/2024,weekday
+370,Amanah 500ml,17/8/2024,weekend
+371,Amanah 330ml,17/8/2024,weekend
+371,Amanah Galon,17/8/2024,weekend
+372,Sunco 1L,17/8/2024,weekend
+372,Sunco 2L,17/8/2024,weekend
+373,Indo Goreng,17/8/2024,weekend
+373,Sedap Goreng,17/8/2024,weekend
+374,Amanah Galon,17/8/2024,weekend
+375,Minyak Kita 1L,18/8/2024,weekend
+375,Hemart 1L,18/8/2024,weekend
+375,Bango,18/8/2024,weekend
+375,Sunlight,18/8/2024,weekend
+376,Gula Pasir,18/8/2024,weekend
+377,Sawit,18/8/2024,weekend
+378,Gula Pasir,18/8/2024,weekend
+378,Garam,18/8/2024,weekend
+379,Sunco 2L,18/8/2024,weekend
+379,Minyak Kita 1L,18/8/2024,weekend
+379,Segitiga 1Kg,18/8/2024,weekend
+380,Amanah Galon,18/8/2024,weekend
+381,Amanah Galon,18/8/2024,weekend
+382,Aqua Galon,18/8/2024,weekend
+382,Le Mineral Galon,18/8/2024,weekend
+383,Indo AB,19/8/2024,weekday
+383,Sedap AB,19/8/2024,weekday
+383,Le Mineral Galon,19/8/2024,weekday
+384,Amanah Galon,19/8/2024,weekday
+385,Gula Pasir,19/8/2024,weekday
+385,Le Mineral 600ml,19/8/2024,weekday
+385,Sedap Goreng,19/8/2024,weekday
+385,Sedap Soto,19/8/2024,weekday
+385,Minyak Kita 1L,19/8/2024,weekday
+385,Bango,19/8/2024,weekday
+386,Sawit,19/8/2024,weekday
+387,Gula Pasir,19/8/2024,weekday
+388,Amanah Galon,19/8/2024,weekday
+389,Segitiga 1Kg,19/8/2024,weekday
+389,Sawit,19/8/2024,weekday
+390,Gula Pasir,19/8/2024,weekday
+390,Sunlight,19/8/2024,weekday
+390,Indo AB,19/8/2024,weekday
+390,Indo Goreng,19/8/2024,weekday
+391,Aqua Galon,20/8/2024,weekday
+392,Aqua Galon,20/8/2024,weekday
+392,Gas 3Kg,20/8/2024,weekday
+393,Le Mineral Galon,20/8/2024,weekday
+393,Minyak Kita 1L,20/8/2024,weekday
+394,Sawit,20/8/2024,weekday
+395,Amanah Galon,20/8/2024,weekday
+396,Sedap Soto,20/8/2024,weekday
+396,Indo Soto,20/8/2024,weekday
+396,Indo Rendang,20/8/2024,weekday
+397,Hemart 1L,20/8/2024,weekday
+397,Sunco 1L,20/8/2024,weekday
+398,Segitiga 1Kg,21/8/2024,weekday
+398,Bango,21/8/2024,weekday
+398,Aqua Galon,21/8/2024,weekday
+398,Le Mineral 600ml,21/8/2024,weekday
+398,Aqua 600ml,21/8/2024,weekday
+398,Indo Soto,21/8/2024,weekday
+398,Indo Goreng,21/8/2024,weekday
+399,Sunco 1L,21/8/2024,weekday
+400,Sunco 1L,21/8/2024,weekday
+401,Gula Pasir,21/8/2024,weekday
+402,Amanah Galon,21/8/2024,weekday
+403,Gula Pasir,21/8/2024,weekday
+403,Kara,21/8/2024,weekday
+404,Le Mineral 600ml,21/8/2024,weekday
+404,Indo Goreng,21/8/2024,weekday
+404,Indo AB,21/8/2024,weekday
+404,Indo Soto,21/8/2024,weekday
+405,Sawit,21/8/2024,weekday
+406,Amanah Galon,21/8/2024,weekday
+407,Aqua Galon,21/8/2024,weekday
+408,Gas 3Kg,21/8/2024,weekday
+409,Gula Pasir,22/8/2024,weekday
+409,Sunco 2L,22/8/2024,weekday
+410,Sawit,22/8/2024,weekday
+410,Bango,22/8/2024,weekday
+411,Gula Pasir,22/8/2024,weekday
+411,Sedap Goreng,22/8/2024,weekday
+411,Sedap Soto,22/8/2024,weekday
+411,Le Mineral 600ml,22/8/2024,weekday
+412,Amanah Galon,22/8/2024,weekday
+413,Amanah Galon,22/8/2024,weekday
+414,Le Mineral Galon,22/8/2024,weekday
+414,Aqua Galon,22/8/2024,weekday
+415,Amanah 500ml,22/8/2024,weekday
+415,Amanah 330ml,22/8/2024,weekday
+415,Aqua 600ml,22/8/2024,weekday
+415,Le Mineral 600ml,22/8/2024,weekday
+416,Sawit,22/8/2024,weekday
+417,Amanah Galon,22/8/2024,weekday
+418,Garam,22/8/2024,weekday
+419,Fortune 1L,22/8/2024,weekday
+419,Bango,22/8/2024,weekday
+419,Sunlight,22/8/2024,weekday
+420,Aqua Galon,23/8/2024,weekday
+420,Amanah Galon,23/8/2024,weekday
+421,Indo Goreng,23/8/2024,weekday
+421,Sedap Goreng,23/8/2024,weekday
+422,Amanah Galon,23/8/2024,weekday
+423,Sawit,23/8/2024,weekday
+424,Gula Pasir,23/8/2024,weekday
+424,Sunco 1L,23/8/2024,weekday
+425,Gas 3Kg,23/8/2024,weekday
+425,Sawit,23/8/2024,weekday
+426,Kara,23/8/2024,weekday
+426,Bango,23/8/2024,weekday
+426,Teh Pucuk,23/8/2024,weekday
+427,Le Mineral Galon,23/8/2024,weekday
+428,Amanah Galon,23/8/2024,weekday
+429,Sawit,24/8/2024,weekend
+430,Amanah Galon,24/8/2024,weekend
+431,Amanah Galon,24/8/2024,weekend
+432,Indo AB,24/8/2024,weekend
+432,Sedap AB,24/8/2024,weekend
+432,Indo Soto,24/8/2024,weekend
+432,Sedap Soto,24/8/2024,weekend
+433,Fortune 2 L,24/8/2024,weekend
+433,Fortune 1L,24/8/2024,weekend
+433,Hemart 1L,24/8/2024,weekend
+433,Hemart 1/2 L Refill,24/8/2024,weekend
+433,Hemart 2 L Refill,24/8/2024,weekend
+434,Aqua Galon,24/8/2024,weekend
+435,Gas 3Kg,25/8/2024,weekend
+436,Minyak Kita 1L,25/8/2024,weekend
+437,Indo G Geprek,25/8/2024,weekend
+437,Indo Aceh,25/8/2024,weekend
+437,Indo Rendang,25/8/2024,weekend
+438,Gula Pasir,25/8/2024,weekend
+438,Garam,25/8/2024,weekend
+439,Sunco 1L,25/8/2024,weekend
+440,Minyak Kita 1L,25/8/2024,weekend
+441,Bango,25/8/2024,weekend
+441,Segitiga 1Kg,25/8/2024,weekend
+441,Indo Goreng,25/8/2024,weekend
+441,Sedap Goreng,25/8/2024,weekend
+442,Amanah Galon,25/8/2024,weekend
+443,Amanah Galon,25/8/2024,weekend
+444,Amanah Galon,25/8/2024,weekend
+445,Sunco 2L,26/8/2024,weekday
+445,Fortune 2 L,26/8/2024,weekday
+445,Sawit,26/8/2024,weekday
+446,Le Mineral Galon,26/8/2024,weekday
+446,Le Mineral 600ml,26/8/2024,weekday
+447,Segitiga 1Kg,26/8/2024,weekday
+447,Lencana Merah,26/8/2024,weekday
+448,Amanah Galon,26/8/2024,weekday
+449,Indo Goreng,26/8/2024,weekday
+450,Sedap Goreng,26/8/2024,weekday
+450,Sedap AB,26/8/2024,weekday
+451,Amanah Galon,26/8/2024,weekday
+451,Aqua Galon,26/8/2024,weekday
+452,Hemart 1L,26/8/2024,weekday
+452,Sunco 1L,26/8/2024,weekday
+452,Fortune 1L,26/8/2024,weekday
+452,Segitiga 1Kg,26/8/2024,weekday
+452,Lencana Merah,26/8/2024,weekday
+452,Bango,26/8/2024,weekday
+452,Aqua 600ml,26/8/2024,weekday
+452,Le Mineral 600ml,26/8/2024,weekday
+452,Minyak Kita 1L,26/8/2024,weekday
+453,Amanah Galon,27/8/2024,weekday
+454,Amanah Galon,27/8/2024,weekday
+455,Sawit,27/8/2024,weekday
+456,Minyak Kita 1L,27/8/2024,weekday
+456,Garam,27/8/2024,weekday
+457,Sedap Goreng,27/8/2024,weekday
+457,Sedap AB,27/8/2024,weekday
+457,Sedap Soto,27/8/2024,weekday
+457,Indo Soto,27/8/2024,weekday
+457,Hemart 1L,27/8/2024,weekday
+458,Le Mineral Galon,27/8/2024,weekday
+459,Aqua Galon,27/8/2024,weekday
+459,Le Mineral Galon,27/8/2024,weekday
+459,Aqua 600ml,27/8/2024,weekday
+459,Le Mineral 600ml,27/8/2024,weekday
+459,Teh Pucuk,27/8/2024,weekday
+459,Gula Pasir,27/8/2024,weekday
+460,Minyak Kita 1L,27/8/2024,weekday
+460,Garam,27/8/2024,weekday
+461,Gula Pasir,28/8/2024,weekday
+461,Sunlight,28/8/2024,weekday
+461,Indo AB,28/8/2024,weekday
+461,Indo Goreng,28/8/2024,weekday
+462,Sawit,28/8/2024,weekday
+462,Amanah 330ml,28/8/2024,weekday
+463,Segitiga 1Kg,28/8/2024,weekday
+464,Aqua Galon,28/8/2024,weekday
+464,Amanah Galon,28/8/2024,weekday
+464,Indo Goreng,28/8/2024,weekday
+464,Garam,28/8/2024,weekday
+464,Le Mineral Galon,28/8/2024,weekday
+465,Amanah Galon,28/8/2024,weekday
+467,Hemart 1/2 L Refill,28/8/2024,weekday
+467,Hemart 2 L Refill,28/8/2024,weekday
+468,Indo Goreng,28/8/2024,weekday
+468,Sedap Goreng,28/8/2024,weekday
+469,Gas 3Kg,28/8/2024,weekday
+470,Amanah Galon,28/8/2024,weekday
+471,Sunco 1L,28/8/2024,weekday
+472,Amanah Galon,29/8/2024,weekday
+473,Amanah Galon,29/8/2024,weekday
+474,Sawit,29/8/2024,weekday
+475,Kara,29/8/2024,weekday
+475,Sunlight,29/8/2024,weekday
+475,Bango,29/8/2024,weekday
+476,Le Mineral 600ml,29/8/2024,weekday
+477,Amanah 330ml,29/8/2024,weekday
+477,Amanah 500ml,29/8/2024,weekday
+478,Indo Goreng,29/8/2024,weekday
+478,Indo Rendang,29/8/2024,weekday
+478,Indo AB,29/8/2024,weekday
+479,Hemart 1L,29/8/2024,weekday
+479,Minyak Kita 1L,29/8/2024,weekday
+480,Aqua Galon,30/8/2024,weekday
+480,Le Mineral Galon,30/8/2024,weekday
+481,Teh Pucuk,30/8/2024,weekday
+481,Le Mineral 600ml,30/8/2024,weekday
+482,Sedap Goreng,30/8/2024,weekday
+482,Sedap AB,30/8/2024,weekday
+483,Sawit,30/8/2024,weekday
+484,Gula Pasir,30/8/2024,weekday
+484,Garam,30/8/2024,weekday
+484,Segitiga 1Kg,30/8/2024,weekday
+485,Gas 3Kg,30/8/2024,weekday
+486,Amanah Galon,30/8/2024,weekday
+487,Amanah Galon,30/8/2024,weekday
+488,Fortune 1L,30/8/2024,weekday
+488,Fortune 2 L,30/8/2024,weekday
+489,Aqua Galon,31/8/2024,weekend
+490,Amanah Galon,31/8/2024,weekend
+491,Amanah Galon,31/8/2024,weekend
+492,Indo G Geprek,31/8/2024,weekend
+492,Indo Aceh,31/8/2024,weekend
+493,Gas 3Kg,31/8/2024,weekend
+494,Wall Stapler,31/8/2024,weekend
+495,Kara,31/8/2024,weekend
+495,Lencana Merah,31/8/2024,weekend
+496,Amanah Galon,31/8/2024,weekend
+497,Le Mineral Galon,31/8/2024,weekend
+498,Amanah Galon,1/9/2024,weekend
+499,Amanah Galon,1/9/2024,weekend
+500,Minyak Kita 1L,1/9/2024,weekend
+501,Sunco 2L,1/9/2024,weekend
+501,Fortune 2 L,1/9/2024,weekend
+502,Gas 3Kg,1/9/2024,weekend
+503,Le Mineral 600ml,1/9/2024,weekend
+503,Teh Pucuk,1/9/2024,weekend
+504,Sawit,1/9/2024,weekend
+505,Gula Pasir,1/9/2024,weekend
+505,Hemart 1L,1/9/2024,weekend
+506,Aqua Galon,1/9/2024,weekend
+506,Aqua 600ml,1/9/2024,weekend
+507,Wall Stapler,1/9/2024,weekend
+508,Indo AB,1/9/2024,weekend
+508,Indo Soto,1/9/2024,weekend
+508,Sedap AB,1/9/2024,weekend
+508,Indo AB,1/9/2024,weekend
+509,Gula Pasir,2/9/2024,weekday
+509,Garam,2/9/2024,weekday
+509,Kara,2/9/2024,weekday
+510,Sawit,2/9/2024,weekday
+510,Segitiga 1Kg,2/9/2024,weekday
+511,Amanah Galon,2/9/2024,weekday
+511,Le Mineral Galon,2/9/2024,weekday
+512,Amanah Galon,2/9/2024,weekday
+513,Minyak Kita 1L,2/9/2024,weekday
+513,Sunco 2L,2/9/2024,weekday
+513,Sunco 1L,2/9/2024,weekday
+513,Indo AB,2/9/2024,weekday
+513,Indo Goreng,2/9/2024,weekday
+514,Gula Pasir,2/9/2024,weekday
+514,Segitiga 1Kg,2/9/2024,weekday
+514,Minyak Kita 1L,2/9/2024,weekday
+515,Aqua Galon,2/9/2024,weekday
+515,Gas 3Kg,2/9/2024,weekday
+516,Sawit,2/9/2024,weekday
+517,Garam,2/9/2024,weekday
+517,Sunlight,2/9/2024,weekday
+517,Bango,2/9/2024,weekday
+518,Amanah Galon,3/9/2024,weekday
+519,Amanah 330ml,3/9/2024,weekday
+519,Amanah 500ml,3/9/2024,weekday
+519,Amanah Galon,3/9/2024,weekday
+520,Indo Aceh,3/9/2024,weekday
+520,Indo G Geprek,3/9/2024,weekday
+520,Indo Rendang,3/9/2024,weekday
+521,Sunco 2L,3/9/2024,weekday
+522,Gula Pasir,3/9/2024,weekday
+523,Minyak Kita 1L,3/9/2024,weekday
+523,Hemart 1L,3/9/2024,weekday
+524,Amanah Galon,3/9/2024,weekday
+524,Aqua Galon,3/9/2024,weekday
+524,Le Mineral Galon,3/9/2024,weekday
+525,Aqua Galon,3/9/2024,weekday
+526,Sunco 2L,3/9/2024,weekday
+526,Sunco 1L,3/9/2024,weekday
+527,Sawit,3/9/2024,weekday
+527,Gula Pasir,3/9/2024,weekday
+528,Amanah Galon,3/9/2024,weekday
+529,Indo Goreng,3/9/2024,weekday
+529,Indo Soto,3/9/2024,weekday
+530,Minyak Kita 1L,4/9/2024,weekday
+531,Sedap Goreng,4/9/2024,weekday
+531,Sedap AB,4/9/2024,weekday
+531,Sedap Soto,4/9/2024,weekday
+531,Segitiga 1Kg,4/9/2024,weekday
+531,Gula Pasir,4/9/2024,weekday
+531,Bango,4/9/2024,weekday
+531,Le Mineral 600ml,4/9/2024,weekday
+532,Amanah Galon,4/9/2024,weekday
+533,Minyak Kita 1L,4/9/2024,weekday
+534,Aqua 600ml,4/9/2024,weekday
+534,Le Mineral 600ml,4/9/2024,weekday
+535,Aqua Galon,4/9/2024,weekday
+536,Le Mineral Galon,4/9/2024,weekday
+537,Gula Pasir,4/9/2024,weekday
+537,Garam,4/9/2024,weekday
+537,Segitiga 1Kg,4/9/2024,weekday
+538,Aqua Galon,5/9/2024,weekday
+539,Amanah 500ml,5/9/2024,weekday
+539,Amanah 330ml,5/9/2024,weekday
+540,Indo Goreng,5/9/2024,weekday
+540,Indo Rendang,5/9/2024,weekday
+540,Sedap Goreng,5/9/2024,weekday
+541,Amanah Galon,5/9/2024,weekday
+542,Sawit,5/9/2024,weekday
+543,Gula Pasir,5/9/2024,weekday
+544,Sunco 2L,5/9/2024,weekday
+544,Sunco 1L,5/9/2024,weekday
+545,Amanah Galon,5/9/2024,weekday
+546,Gas 3Kg,5/9/2024,weekday
+547,Le Mineral Galon,5/9/2024,weekday
+548,Amanah Galon,5/9/2024,weekday
+549,Amanah Galon,5/9/2024,weekday
+550,Fortune 1L,6/9/2024,weekday
+550,Fortune 2 L,6/9/2024,weekday
+551,Minyak Kita 1L,6/9/2024,weekday
+551,Kara,6/9/2024,weekday
+552,Amanah Galon,6/9/2024,weekday
+553,Amanah Galon,6/9/2024,weekday
+554,Sawit,7/9/2024,weekend
+555,Garam,7/9/2024,weekend
+555,Bango,7/9/2024,weekend
+555,Segitiga 1Kg,7/9/2024,weekend
+555,Lencana Merah,7/9/2024,weekend
+556,Aqua Galon,7/9/2024,weekend
+556,Aqua 600ml,7/9/2024,weekend
+557,Indo Rendang,7/9/2024,weekend
+557,Indo Aceh,7/9/2024,weekend
+558,Minyak Kita 1L,7/9/2024,weekend
+559,Amanah Galon,7/9/2024,weekend
+560,Amanah Galon,7/9/2024,weekend
+561,Hemart 1L,7/9/2024,weekend
+561,Hemart 1/2 L Refill,7/9/2024,weekend
+561,Hemart 2 L Refill,7/9/2024,weekend
+562,Amanah Galon,8/9/2024,weekend
+563,Indo Rendang,8/9/2024,weekend
+563,Indo Aceh,8/9/2024,weekend
+563,Indo Goreng,8/9/2024,weekend
+564,Amanah 500ml,8/9/2024,weekend
+565,Gas 3Kg,8/9/2024,weekend
+566,Sawit,8/9/2024,weekend
+567,Amanah Galon,8/9/2024,weekend
+568,Amanah Galon,8/9/2024,weekend
+569,Sunco 2L,8/9/2024,weekend
+569,Sunco 1L,8/9/2024,weekend
+570,Minyak Kita 1L,8/9/2024,weekend
+570,Gula Pasir,8/9/2024,weekend
+571,Le Mineral Galon,8/9/2024,weekend
+571,Aqua Galon,8/9/2024,weekend
+571,Amanah Galon,8/9/2024,weekend
+572,Gula Pasir,8/9/2024,weekend
+573,Sedap Goreng,9/9/2024,weekday
+573,Sedap AB,9/9/2024,weekday
+573,Sedap Soto,9/9/2024,weekday
+573,Aqua 600ml,9/9/2024,weekday
+573,Segitiga 1Kg,9/9/2024,weekday
+574,Sawit,9/9/2024,weekday
+575,Minyak Kita 1L,9/9/2024,weekday
+575,Sunlight,9/9/2024,weekday
+575,Bango,9/9/2024,weekday
+576,Indo Goreng,9/9/2024,weekday
+577,Sedap Goreng,9/9/2024,weekday
+578,Indo AB,9/9/2024,weekday
+578,Indo Rendang,9/9/2024,weekday
+578,Hemart 1L,9/9/2024,weekday
+579,Amanah Galon,9/9/2024,weekday
+580,Sunco 2L,9/9/2024,weekday
+580,Sunco 1L,9/9/2024,weekday
+581,Segitiga 1Kg,10/9/2024,weekday
+582,Bango,10/9/2024,weekday
+582,Aqua Galon,10/9/2024,weekday
+582,Aqua 600ml,10/9/2024,weekday
+582,Le Mineral 600ml,10/9/2024,weekday
+582,Indo Soto,10/9/2024,weekday
+582,Indo Goreng,10/9/2024,weekday
+583,Sunco 1L,10/9/2024,weekday
+584,Sunco 2L,10/9/2024,weekday
+585,Amanah Galon,10/9/2024,weekday
+586,Gula Pasir,10/9/2024,weekday
+586,Aqua Galon,10/9/2024,weekday
+587,Gula Pasir,10/9/2024,weekday
+587,Kara,10/9/2024,weekday
+588,Amanah 330ml,10/9/2024,weekday
+588,Amanah 500ml,10/9/2024,weekday
+589,Sawit,10/9/2024,weekday
+590,Minyak Kita 1L,10/9/2024,weekday
+591,Amanah Galon,10/9/2024,weekday
+592,Aqua Galon,11/9/2024,weekday
+592,Le Mineral Galon,11/9/2024,weekday
+593,Indo Goreng,11/9/2024,weekday
+593,Indo Rendang,11/9/2024,weekday
+593,Sedap Goreng,11/9/2024,weekday
+594,Gas 3Kg,11/9/2024,weekday
+594,Sawit,11/9/2024,weekday
+595,Amanah Galon,11/9/2024,weekday
+596,Amanah Galon,11/9/2024,weekday
+597,Gula Pasir,11/9/2024,weekday
+598,Aqua Galon,11/9/2024,weekday
+598,Amanah Galon,11/9/2024,weekday
+598,Le Mineral 600ml,11/9/2024,weekday
+598,Garam,11/9/2024,weekday
+598,Hemart 1L,11/9/2024,weekday
+599,Amanah Galon,11/9/2024,weekday
+599,Minyak Kita 1L,11/9/2024,weekday
+600,Gula Pasir,11/9/2024,weekday
+600,Minyak Kita 1L,11/9/2024,weekday
+600,Le Mineral 600ml,11/9/2024,weekday
+601,Sunco 1L,11/9/2024,weekday
+601,Segitiga 1Kg,11/9/2024,weekday
+601,Indo AB,11/9/2024,weekday
+601,Indo Goreng,11/9/2024,weekday
+602,Sawit,11/9/2024,weekday
+602,Kara,11/9/2024,weekday
+603,Amanah Galon,11/9/2024,weekday
+604,Amanah Galon,12/9/2023,weekday
+604,Amanah 500ml,12/9/2023,weekday
+604,Amanah 330ml,12/9/2023,weekday
+605,Hemart 1L,12/9/2023,weekday
+605,Sunco 1L,12/9/2023,weekday
+605,Fortune 1L,12/9/2023,weekday
+605,Segitiga 1Kg,12/9/2023,weekday
+605,Lencana Merah,12/9/2023,weekday
+605,Bango,12/9/2023,weekday
+605,Aqua 600ml,12/9/2023,weekday
+605,Le Mineral 600ml,12/9/2023,weekday
+605,Bango,12/9/2023,weekday
+605,Minyak Kita 1L,12/9/2023,weekday
+606,Gula Pasir,12/9/2023,weekday
+607,Sawit,12/9/2023,weekday
+608,Aqua Galon,12/9/2023,weekday
+608,Gas 3Kg,12/9/2023,weekday
+609,Amanah Galon,12/9/2023,weekday
+610,Sedap Goreng,13/9/2024,weekday
+610,Sedap AB,13/9/2024,weekday
+610,Sedap Soto,13/9/2024,weekday
+610,Indo Soto,13/9/2024,weekday
+610,Hemart 1L,13/9/2024,weekday
+611,Le Mineral Galon,13/9/2024,weekday
+612,Gula Pasir,13/9/2024,weekday
+612,Sunco 2L,13/9/2024,weekday
+613,Amanah 330ml,13/9/2024,weekday
+614,Amanah Galon,13/9/2024,weekday
+615,Amanah Galon,13/9/2024,weekday
+616,Gas 3Kg,13/9/2024,weekday
+617,Gula Pasir,13/9/2024,weekday
+617,Minyak Kita 1L,13/9/2024,weekday
+617,Indo Goreng,13/9/2024,weekday
+617,Indo AB,13/9/2024,weekday
+618,Amanah Galon,14/9/2024,weekend
+618,Aqua Galon,14/9/2024,weekend
+618,Hemart 1L,14/9/2024,weekend
+618,Hemart 1/2 L Refill,14/9/2024,weekend
+619,Indo G Geprek,14/9/2024,weekend
+619,Indo Goreng,14/9/2024,weekend
+619,Indo Rendang,14/9/2024,weekend
+619,Indo Aceh,14/9/2024,weekend
+620,Gula Pasir,14/9/2024,weekend
+621,Amanah Galon,14/9/2024,weekend
+622,Amanah Galon,14/9/2024,weekend
+622,Sawit,14/9/2024,weekend
+623,Kara,14/9/2024,weekend
+623,Bango,14/9/2024,weekend
+623,Sunlight,14/9/2024,weekend
+624,Sawit,14/9/2024,weekend
+624,Segitiga 1Kg,14/9/2024,weekend
+625,Aqua Galon,14/9/2024,weekend
+625,Amanah Galon,14/9/2024,weekend
+625,Sedap Goreng,14/9/2024,weekend
+625,Gula Pasir,14/9/2024,weekend
+626,Amanah Galon,14/9/2024,weekend
+627,Hemart 1/2 L Refill,15/9/2024,weekend
+627,Hemart 1L,15/9/2024,weekend
+627,Sawit,15/9/2024,weekend
+628,Minyak Kita 1L,15/9/2024,weekend
+629,Amanah Galon,15/9/2024,weekend
+630,Amanah Galon,15/9/2024,weekend
+631,Sunco 2L,15/9/2024,weekend
+632,Amanah Galon,15/9/2024,weekend
+633,Aqua Galon,15/9/2024,weekend
+634,Sedap Goreng,15/9/2024,weekend
+634,Sedap AB,15/9/2024,weekend
+634,Hemart 1/2 L Refill,15/9/2024,weekend
+634,Teh Pucuk,15/9/2024,weekend
+635,Indo Soto,15/9/2024,weekend
+635,Sedap Soto,15/9/2024,weekend
+636,Le Mineral Galon,15/9/2024,weekend
+636,Le Mineral 600ml,15/9/2024,weekend
+637,Gas 3Kg,16/9/2024,weekday
+638,Sunco 2L,16/9/2024,weekday
+638,Fortune 2 L,16/9/2024,weekday
+639,Gula Pasir,16/9/2024,weekday
+639,Garam,16/9/2024,weekday
+640,Amanah Galon,16/9/2024,weekday
+641,Amanah Galon,16/9/2024,weekday
+642,Minyak Kita 1L,16/9/2024,weekday
+643,Wall Stapler,16/9/2024,weekday
+644,Segitiga 1Kg,16/9/2024,weekday
+644,Minyak Kita 1L,16/9/2024,weekday
+644,Amanah Galon,16/9/2024,weekday
+644,Aqua 600ml,16/9/2024,weekday
+644,Aqua Galon,16/9/2024,weekday
+645,Sawit,16/9/2024,weekday
+646,Hemart 1L,17/9/2024,weekday
+647,Sedap Goreng,17/9/2024,weekday
+647,Sedap AB,17/9/2024,weekday
+647,Segitiga 1Kg,17/9/2024,weekday
+647,Gula Pasir,17/9/2024,weekday
+647,Bango,17/9/2024,weekday
+647,Le Mineral 600ml,17/9/2024,weekday
+648,Amanah Galon,17/9/2024,weekday
+649,Amanah Galon,17/9/2024,weekday
+649,Amanah 330ml,17/9/2024,weekday
+650,Amanah Galon,17/9/2024,weekday
+651,Aqua Galon,17/9/2024,weekday
+651,Amanah Galon,17/9/2024,weekday
+651,Le Mineral Galon,17/9/2024,weekday
+652,Sawit,17/9/2024,weekday
+653,Indo Goreng,17/9/2024,weekday
+653,Indo Rendang,17/9/2024,weekday
+653,Indo AB,17/9/2024,weekday
+653,Indo Soto,17/9/2024,weekday
+654,Gas 3Kg,17/9/2024,weekday
+655,Gula Pasir,18/9/2024,weekday
+656,Sunco 2L,18/9/2024,weekday
+657,Indo Goreng,18/9/2024,weekday
+657,Indo AB,18/9/2024,weekday
+657,Segitiga 1Kg,18/9/2024,weekday
+657,Sunco 1L,18/9/2024,weekday
+657,Le Mineral 600ml,18/9/2024,weekday
+658,Minyak Kita 1L,18/9/2024,weekday
+658,Sedap Goreng,18/9/2024,weekday
+658,Sedap AB,18/9/2024,weekday
+658,Lencana Merah,18/9/2024,weekday
+659,Amanah Galon,18/9/2024,weekday
+660,Amanah Galon,18/9/2024,weekday
+661,Aqua Galon,18/9/2024,weekday
+662,Amanah Galon,18/9/2024,weekday
+663,Sunco 1L,18/9/2024,weekday
+664,Kara,18/9/2024,weekday
+664,Sawit,18/9/2024,weekday
+665,Hemart 1L,18/9/2024,weekday
+665,Garam,18/9/2024,weekday
+665,Gula Pasir,18/9/2024,weekday
+665,Sawit,18/9/2024,weekday
+665,Bango,18/9/2024,weekday
+666,Gula Pasir,19/9/2024,weekday
+666,Sunco 2L,19/9/2024,weekday
+666,Sedap Goreng,19/9/2024,weekday
+666,Fortune 2 L,19/9/2024,weekday
+667,Minyak Kita 1L,19/9/2024,weekday
+668,Amanah Galon,19/9/2024,weekday
+668,Gas 3Kg,19/9/2024,weekday
+669,Amanah Galon,19/9/2024,weekday
+670,Amanah Galon,19/9/2024,weekday
+671,Le Mineral Galon,19/9/2024,weekday
+672,Aqua Galon,19/9/2024,weekday
+672,Aqua 600ml,19/9/2024,weekday
+672,Le Mineral Galon,19/9/2024,weekday
+672,Segitiga 1Kg,19/9/2024,weekday
+672,Gula Pasir,19/9/2024,weekday
+672,Minyak Kita 1L,19/9/2024,weekday
+673,Sawit,19/9/2024,weekday
+674,Teh Pucuk,19/9/2024,weekday
+675,Bango,19/9/2024,weekday
+675,Le Mineral 600ml,19/9/2024,weekday
+676,Indo Goreng,19/9/2024,weekday
+676,Indo Aceh,19/9/2024,weekday
+676,Sedap Goreng,19/9/2024,weekday
+677,Le Mineral 600ml,20/9/2024,weekday
+677,Aqua 600ml,20/9/2024,weekday
+677,Teh Pucuk,20/9/2024,weekday
+678,Amanah Galon,20/9/2024,weekday
+679,Aqua Galon,20/9/2024,weekday
+680,Sawit,20/9/2024,weekday
+680,Gula Pasir,20/9/2024,weekday
+680,Garam,20/9/2024,weekday
+681,Indo Goreng,20/9/2024,weekday
+681,Indo Rendang,20/9/2024,weekday
+682,Fortune 1L,20/9/2024,weekday
+682,Fortune 2 L,20/9/2024,weekday
+682,Minyak Kita 1L,20/9/2024,weekday
+683,Gas 3Kg,20/9/2024,weekday
+684,Amanah Galon,20/9/2024,weekday
+685,Amanah Galon,20/9/2024,weekday
+685,Le Mineral Galon,20/9/2024,weekday
+686,Sunco 2L,20/9/2024,weekday
+687,Segitiga 1Kg,20/9/2024,weekday
+687,Bango,20/9/2024,weekday
+688,Amanah Galon,21/9/2024,weekend
+689,Aqua Galon,21/9/2024,weekend
+689,Le Mineral Galon,21/9/2024,weekend
+690,Amanah 330ml,21/9/2024,weekend
+690,Amanah 500ml,21/9/2024,weekend
+691,Indo Aceh,21/9/2024,weekend
+691,Indo G Geprek,21/9/2024,weekend
+691,Indo Soto,21/9/2024,weekend
+691,Indo AB,21/9/2024,weekend
+692,Sawit,21/9/2024,weekend
+692,Garam,21/9/2024,weekend
+692,Sunlight,21/9/2024,weekend
+692,Bango,21/9/2024,weekend
+693,Amanah Galon,21/9/2024,weekend
+694,Gula Pasir,21/9/2024,weekend
+695,Sawit,21/9/2024,weekend
+696,Minyak Kita 1L,21/9/2024,weekend
+696,Segitiga 1Kg,21/9/2024,weekend
+696,Lencana Merah,21/9/2024,weekend
+697,Indo Goreng,22/9/2024,weekend
+697,Sedap Goreng,22/9/2024,weekend
+697,Indo Rendang,22/9/2024,weekend
+697,Indo AB,22/9/2024,weekend
+697,Sedap AB,22/9/2024,weekend
+698,Sunco 2L,22/9/2024,weekend
+698,Hemart 1L,22/9/2024,weekend
+699,Sawit,22/9/2024,weekend
+700,Amanah Galon,22/9/2024,weekend
+701,Amanah Galon,22/9/2024,weekend
+702,Amanah Galon,22/9/2024,weekend
+703,Indo Goreng,22/9/2024,weekend
+703,Sedap Goreng,22/9/2024,weekend
+704,Aqua Galon,22/9/2024,weekend
+704,Amanah Galon,22/9/2024,weekend
+704,Aqua 600ml,22/9/2024,weekend
+705,Gula Pasir,22/9/2024,weekend
+705,Garam,22/9/2024,weekend
+705,Bango,22/9/2024,weekend
+706,Gula Pasir,22/9/2024,weekend
+707,Sawit,22/9/2024,weekend
+708,Amanah Galon,22/9/2024,weekend
+709,Gula Pasir,23/9/2024,weekday
+710,Sawit,23/9/2024,weekday
+711,Amanah Galon,23/9/2024,weekday
+712,Amanah Galon,23/9/2024,weekday
+713,Sunco 2L,23/9/2024,weekday
+714,Minyak Kita 1L,23/9/2024,weekday
+714,Hemart 1L,23/9/2024,weekday
+715,Le Mineral 600ml,23/9/2024,weekday
+715,Aqua 600ml,23/9/2024,weekday
+715,Amanah 500ml,23/9/2024,weekday
+715,Amanah 330ml,23/9/2024,weekday
+715,Aqua Galon,23/9/2024,weekday
+716,Sawit,23/9/2024,weekday
+717,Amanah Galon,23/9/2024,weekday
+718,Indo AB,23/9/2024,weekday
+718,Sedap AB,23/9/2024,weekday
+719,Aqua Galon,23/9/2024,weekday
+719,Le Mineral Galon,23/9/2024,weekday
+719,Aqua 600ml,23/9/2024,weekday
+719,Le Mineral 600ml,23/9/2024,weekday
+719,Teh Pucuk,23/9/2024,weekday
+720,Wall Stapler,23/9/2024,weekday
+721,Gas 3Kg,23/9/2024,weekday
+722,Amanah Galon,24/9/2024,weekday
+723,Amanah Galon,24/9/2024,weekday
+724,Sawit,24/9/2024,weekday
+725,Gula Pasir,24/9/2024,weekday
+726,Amanah Galon,24/9/2024,weekday
+726,Aqua Galon,24/9/2024,weekday
+726,Le Mineral Galon,24/9/2024,weekday
+727,Amanah Galon,24/9/2024,weekday
+728,Indo Goreng,24/9/2024,weekday
+728,Sedap Goreng,24/9/2024,weekday
+728,Indo Rendang,24/9/2024,weekday
+729,Aqua Galon,24/9/2024,weekday
+729,Aqua 600ml,24/9/2024,weekday
+729,Minyak Kita 1L,24/9/2024,weekday
+730,Amanah Galon,25/9/2024,weekday
+731,Amanah Galon,25/9/2024,weekday
+732,Sawit,25/9/2024,weekday
+734,Gula Pasir,25/9/2024,weekday
+734,Sunco 2L,25/9/2024,weekday
+735,Sawit,25/9/2024,weekday
+735,Lencana Merah,25/9/2024,weekday
+736,Amanah Galon,25/9/2024,weekday
+736,Aqua Galon,25/9/2024,weekday
+737,Kara,25/9/2024,weekday
+737,Bango,25/9/2024,weekday
+737,Sunlight,25/9/2024,weekday
+738,Gas 3Kg,25/9/2024,weekday
+739,Amanah Galon,25/9/2024,weekday
+740,Sedap Soto,25/9/2024,weekday
+740,Indo Soto,25/9/2024,weekday
+741,Le Mineral Galon,25/9/2024,weekday
+742,Minyak Kita 1L,25/9/2024,weekday
+742,Garam,25/9/2024,weekday
+742,Gula Pasir,25/9/2024,weekday
+743,Segitiga 1Kg,26/9/2024,weekday
+743,Sunco 2L,26/9/2024,weekday
+743,Fortune 2 L,26/9/2024,weekday
+743,Hemart 2 L Refill,26/9/2024,weekday
+743,Aqua Galon,26/9/2024,weekday
+743,Le Mineral Galon,26/9/2024,weekday
+743,Gula Pasir,26/9/2024,weekday
+743,Le Mineral 600ml,26/9/2024,weekday
+743,Sedap Goreng,26/9/2024,weekday
+743,Indo Goreng,26/9/2024,weekday
+743,Indo AB,26/9/2024,weekday
+743,Indo Rendang,26/9/2024,weekday
+744,Amanah Galon,26/9/2024,weekday
+745,Amanah Galon,26/9/2024,weekday
+745,Amanah 330ml,26/9/2024,weekday
+745,Amanah 500ml,26/9/2024,weekday
+746,Sawit,26/9/2024,weekday
+746,Gula Pasir,26/9/2024,weekday
+747,Minyak Kita 1L,26/9/2024,weekday
+748,Sunco 1L,26/9/2024,weekday
+748,Indo Goreng,26/9/2024,weekday
+748,Indo Rendang,26/9/2024,weekday
+749,Segitiga 1Kg,26/9/2024,weekday
+749,Kara,26/9/2024,weekday
+750,Gas 3Kg,27/9/2024,weekday
+751,Aqua Galon,27/9/2024,weekday
+751,Aqua 600ml,27/9/2024,weekday
+752,Minyak Kita 1L,27/9/2024,weekday
+753,Sawit,27/9/2024,weekday
+753,Gula Pasir,27/9/2024,weekday
+754,Le Mineral 600ml,27/9/2024,weekday
+754,Teh Pucuk,27/9/2024,weekday
+755,Indo Goreng,27/9/2024,weekday
+755,Indo Rendang,27/9/2024,weekday
+755,Indo Aceh,27/9/2024,weekday
+755,Indo AB,27/9/2024,weekday
+756,Amanah Galon,27/9/2024,weekday
+757,Amanah Galon,27/9/2024,weekday
+758,Amanah Galon,27/9/2024,weekday
+758,Amanah 500ml,27/9/2024,weekday
+758,Amanah 330ml,27/9/2024,weekday
+759,Sunlight,27/9/2024,weekday
+759,Bango,27/9/2024,weekday
+759,Segitiga 1Kg,27/9/2024,weekday
+760,Gula Pasir,27/9/2024,weekday
+760,Garam,27/9/2024,weekday
+760,Sawit,27/9/2024,weekday
+761,Amanah Galon,28/9/2024,weekend
+762,Amanah Galon,28/9/2024,weekend
+763,Sawit,28/9/2024,weekend
+764,Gas 3Kg,28/9/2024,weekend
+765,Sunco 2L,28/9/2024,weekend
+766,Hemart 1L,28/9/2024,weekend
+766,Minyak Kita 1L,28/9/2024,weekend
+767,Amanah Galon,28/9/2024,weekend
+768,Kara,28/9/2024,weekend
+768,Segitiga 1Kg,28/9/2024,weekend
+769,Sedap Goreng,28/9/2024,weekend
+769,Sedap AB,28/9/2024,weekend
+769,Sedap Soto,28/9/2024,weekend
+770,Hemart 1L,29/9/2024,weekend
+770,Sunco 1L,29/9/2024,weekend
+770,Fortune 1L,29/9/2024,weekend
+770,Segitiga 1Kg,29/9/2024,weekend
+770,Lencana Merah,29/9/2024,weekend
+770,Bango,29/9/2024,weekend
+770,Aqua 600ml,29/9/2024,weekend
+770,Le Mineral 600ml,29/9/2024,weekend
+770,Bango,29/9/2024,weekend
+770,Minyak Kita 1L,29/9/2024,weekend
+770,Teh Pucuk,29/9/2024,weekend
+771,Amanah Galon,29/9/2024,weekend
+772,Sawit,29/9/2024,weekend
+772,Segitiga 1Kg,29/9/2024,weekend
+773,Gas 3Kg,29/9/2024,weekend
+774,Amanah Galon,29/9/2024,weekend
+774,Le Mineral Galon,29/9/2024,weekend
+774,Aqua Galon,29/9/2024,weekend
+775,Sunco 2L,29/9/2024,weekend
+776,Indo Goreng,29/9/2024,weekend
+776,Indo AB,29/9/2024,weekend
+777,Amanah Galon,29/9/2024,weekend
+778,Indo Soto,29/9/2024,weekend
+778,Sedap Soto,29/9/2024,weekend
+778,Indo Aceh,29/9/2024,weekend
+779,Amanah Galon,29/9/2024,weekend
+780,Amanah Galon,29/9/2024,weekend
+781,Gula Pasir,29/9/2024,weekend
+781,Garam,29/9/2024,weekend
+781,Sunlight,29/9/2024,weekend
+781,Bango,29/9/2024,weekend
+782,Amanah Galon,30/9/2024,weekday
+783,Amanah Galon,30/9/2024,weekday
+784,Aqua Galon,30/9/2024,weekday
+784,Amanah Galon,30/9/2024,weekday
+784,Le Mineral Galon,30/9/2024,weekday
+785,Sawit,30/9/2024,weekday
+785,Garam,30/9/2024,weekday
+786,Minyak Kita 1L,30/9/2024,weekday
+786,Lencana Merah,30/9/2024,weekday
+786,Amanah 500ml,30/9/2024,weekday
+787,Sawit,30/9/2024,weekday
